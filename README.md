@@ -109,8 +109,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📫 Contact
 For questions, feedback, or collaboration:
-📩 Email: hello@yourdomain.com  
-🌐 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+📩 Email:mdshakibhossen304@gmail.com  
+🌐 Twitter: [@MDshakibHo36524](https://twitter.com/MDShakibHo36524)
 
 ---
 
